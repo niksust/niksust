@@ -65,3 +65,6 @@ I’m a technology professional with experience bridging **data engineering, mac
 ---
 
 ⭐️ *I believe good engineering is not just about accuracy — it’s about clarity, scalability, and impact.*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niksust&show_icons=true&theme=default)
+
