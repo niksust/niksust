@@ -1,4 +1,4 @@
-# Hi, I’m Nitesh Khadka 👋
+# Hello, I’m Nitesh Khadka 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-Professional-blue" />
@@ -106,4 +106,4 @@ Agile · SDLC · GTM Strategy · Business Case Development · Executive Reportin
 
 ---
 
-⭐ *I focus on building AI systems that scale — from research to production, from models to measurable business outcomes.*
+⭐ *I focus on building AI systems that scale from research to production, from models to measurable business outcomes.*
